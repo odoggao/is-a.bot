@@ -1,0 +1,10 @@
+{
+  "domain": "is-a.bot",
+  "subdomain": "nomedoseubot",
+  "owner": {
+    "username": "odoggao"
+  },
+  "record": {
+    "CNAME": "cacholla.vercel.app"
+  }
+}
